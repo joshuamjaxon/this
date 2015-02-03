@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>THIS.</title>
+    <link>http://joshuamjaxon.github.io/this</link>
+    <description>A podcast by Joseph Gamache, Eric Coughlin, and Joshua Jackson about this, that, and some other things.</description>
+    <language>en-us</language>
+    <managingEditor>joshuamjaxon@gmail.com</managingEditor>
+    <webMaster>joshuamjaxon@gmail.com</webMaster>
+    <copyright>2014 Joshua Jackson</copyright>
+    <item>
+      <title>THIS RSS Feed!</title>
+      <pubDate>Tue, 3 Feb 2015 02:22:55 -0600</pubDate>
+      <author>joshuamjaxon@gmail.com</author>
+      <category>Podcast</category>
+      <description><![CDATA[THIS nowhass an RSS feed!]]></description>
+    </item>
+  </channel>
+</rss>
