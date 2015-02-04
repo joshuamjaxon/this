@@ -10,11 +10,11 @@
     <webMaster>joshuamjaxon@gmail.com</webMaster>
     <copyright>2014 Joshua Jackson</copyright>
     <item>
-      <title>THIS RSS Feed!</title>
+      <title>THIS RSS feed has been edited!</title>
       <pubDate>Tue, 3 Feb 2015 02:22:55 -0600</pubDate>
       <author>joshuamjaxon@gmail.com</author>
       <category>Podcast</category>
-      <description><![CDATA[THIS nowhass an RSS feed!]]></description>
+      <description><![CDATA[THIS now has an RSS feed!]]></description>
     </item>
   </channel>
 </rss>
